@@ -280,7 +280,7 @@
       "zIndex": 10,
       "enabled": true
     },
-    "favicon": "https://r.mobirisesite.com/2700532/assets/images/chatgpt_image_may_17__2026__09_19_20_am_128x128_1.png",
+    "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -288,7 +288,9 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishEditFolder": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "mbrsiteDomain": "dzcj9e1pd7",
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
